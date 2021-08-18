@@ -10,6 +10,7 @@ https://www.udemy.com/course/twitter-bot/
 * Seq2Seq
   * 時系列変換
 * Attention
+* Bidirectional RNN
 * 自然言語(応答文)のデータ拡張
 * 応答文の作成
 
