@@ -1,5 +1,4 @@
 # U-TwitterBot
-
 人工知能（AI）を搭載したTwitterボットを作ろう【Seq2Seq+Attention+Colab】<br>
 https://www.udemy.com/course/twitter-bot/
 
