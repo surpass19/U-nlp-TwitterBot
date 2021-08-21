@@ -8,6 +8,9 @@ https://www.udemy.com/course/twitter-bot/
   * POST
 * Seq2Seq
   * 時系列変換
+    * 機械翻訳
+    * 文章要約(本文 ⇨ 要約)
+    * 対話(自分 ⇨ 相手)
 * word2vec
   * CBOWまたは, Skip-gramというNNが用いられる
 * Attention
