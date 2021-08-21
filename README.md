@@ -37,6 +37,13 @@ https://qiita.com/tchih11/items/aef9505d26d1bf06a04c
     * コサイン類似度
 
 # 今後やりたいこと
-Attentionの利用により精度が高まりましたが、LSTM/RNNで時系列データを逐次的に処理しているためデータの並列処理ができず高速化ができない課題は解決されていないままでした. 2017年にGoogle社が発表した「Attention is All You Need」という論文で、RNN/LSTMおよびCNNを用いず、「Attention」のみを用いた「Transformer」を提案し、従来のモデルで抱えていた「高速化ができない」、「精度の高い依存関係モデルを構築できない」という課題を解決しました。
-Transformerは、昨今のBERTやGPT2/GPT３といった最新のＮＬＰモデルの基礎モデルであり、またDETR（別冊で掲載予定）などの画像認識にも使われている重要なモデルです。
+モデル開発の歴史
+RNN（LSTMやGRU含む）時代 <br>
+Seq2seq時代 <br>
+Attention付きseq2seq時代 <br>
+Transformer時代（RNN系不使用） <br>
+https://deepsquare.jp/2020/07/transformer/
+
+Attentionの利用により精度が高まりましたが、LSTM/RNNで時系列データを逐次的に処理しているためデータの並列処理ができず高速化ができない課題は解決されていないままでした. 2017年にGoogle社が発表した「Attention is All You Need」という論文で、RNN/LSTMおよびCNNを用いず、「Attention」のみを用いた「Transformer」を提案し、従来のモデルで抱えていた「高速化ができない」、「精度の高い依存関係モデルを構築できない」という課題を解決しました。 <br>
+Transformerは、昨今のBERTやGPT2/GPT３といった最新のＮＬＰモデルの基礎モデルであり、またDETR（別冊で掲載予定）などの画像認識にも使われている重要なモデルです。 <br>
 https://qiita.com/DeepTama/items/20b93ff8b8547428f662
