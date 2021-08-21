@@ -12,7 +12,9 @@ https://www.udemy.com/course/twitter-bot/
   * CBOWまたは, Skip-gramというNNが用いられる
 * Attention
 * Bidirectional RNN
-* 自然言語(応答文)のデータ拡張
+* 自然言語(応答文)のデータ拡張 <br>
+他の水増しの前処理（Augmentation、オーグメンテーションと言います）としては、下記リンク先が参考になるかと思いますので是非ご一読ください。<br>
+https://qiita.com/tchih11/items/aef9505d26d1bf06a04c
 * 応答文の作成
 * 単語同士の演算
   * U-Word-vec.ipynb
