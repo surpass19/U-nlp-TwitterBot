@@ -12,6 +12,8 @@ https://www.udemy.com/course/twitter-bot/
 * Bidirectional RNN
 * 自然言語(応答文)のデータ拡張
 * 応答文の作成
+* 単語同士の演算
+  * U-Word-vec.ipynb
 
 # キーワード
 * TwitterAPI
