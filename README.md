@@ -6,14 +6,14 @@ https://www.udemy.com/course/twitter-bot/
 * TwitterAPI
   * ツイートの取得(人, ワード, トレンド)
   * POST
+* word2vec
+  * CBOWまたは, Skip-gramというNNが用いられる
 * Seq2Seq
-  * 時系列変換
+  * 時系列変換のモデル
     * 機械翻訳
     * 文章要約(本文 ⇨ 要約)
     * 対話(自分 ⇨ 相手)
-* word2vec
-  * CBOWまたは, Skip-gramというNNが用いられる
-* Attention
+* + Attention
 * Bidirectional RNN
 * 自然言語(応答文)のデータ拡張 <br>
 他の水増しの前処理（Augmentation、オーグメンテーションと言います）としては、下記リンク先が参考になるかと思いますので是非ご一読ください。<br>
