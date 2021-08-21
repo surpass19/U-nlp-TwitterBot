@@ -8,6 +8,8 @@ https://www.udemy.com/course/twitter-bot/
   * POST
 * Seq2Seq
   * 時系列変換
+* word2vec
+  * CBOWまたは, Skip-gramというNNが用いられる
 * Attention
 * Bidirectional RNN
 * 自然言語(応答文)のデータ拡張
